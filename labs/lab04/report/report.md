@@ -2,7 +2,7 @@
 ## Front matter
 title: "Шаблон отчёта по лабораторной работе"
 subtitle: "4"
-author: "НВЕ МАНГЕ ХОСЕ ХЕРСОН МИКО" Группа: НКАбд-03-22
+author: "НВЕ МАНГЕ ХОСЕ ХЕРСОН МИКО , Группа: НКАбд-03-22" 
 
 ## Generic otions
 lang: ru-RU
@@ -59,7 +59,7 @@ lofTitle: "Список иллюстраций"
 lotTitle: "Список таблиц"
 lolTitle: "Листинги"
 ## Misc options
-indent: true
+indent: truecd ~/work/study/2022-2023/Архитектура\ компьютера/study_2022-2023_arh-pc/lab03/report/
 header-includes:
   - \usepackage{indentfirst}
   - \usepackage{float} # keep figures where there are in the text
